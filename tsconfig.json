@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "target": "ES2018",
+      "module": "commonjs",
+      "outDir": "./dist",
+      "strict": true,
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "types": [
+        "swagger-jsdoc"
+      ]
+      
+    }
+  }
